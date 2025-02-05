@@ -1,12 +1,22 @@
-## Hi there 👋
+**Enigmatic Comma** is a creative studio focused on building tools, games, and open-source projects that empower developers and designers. This `.github` repository contains shared configurations, templates, and workflows used across our organization’s repositories.
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 📜 Table of Contents
+- [About the Organization](#-about-the-organization)
+- [Purpose of This Repository](#-purpose-of-this-repository)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🏢 About the Organization
+**Enigmatic Comma** crafts tools and experiences that blend creativity with technology. Our projects include:
+- **[EnigmaCore](https://github.com/EnigmaticComma/EnigmaCore)**: A Unity toolkit for game developers.
+
+Learn more about us at [enigmaticcomma.com](https://enigmaticcomma.com).
+
+---
+## 🛠️ Support
+For questions or issues:  
+- 🐞 **Technical Support**: Open an [issue](https://github.com/EnigmaticComma/.github/issues).  
+- 📧 **General Inquiries**: Email [support@enigmaticcomma.com](mailto:support@enigmaticcomma.com).  
+- 💬 **Community Chat**: Join our [Discord](https://discord.gg/jppFtdu4fj).
